@@ -1,6 +1,6 @@
 <?php
 echo"Software diseñado por José Alberto Mendoza Tarango";
-echo"Número de control: 0649";
+echo"Número de control: 19308051280649";
 echo"Estructura selectiva if-else";
     $x = 80;
 
